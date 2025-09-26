@@ -1,1 +1,9 @@
 python-dotenv
+streamlit
+pandas
+numpy
+plotly
+nbformat
+matplotlib
+seaborn
+scipy
