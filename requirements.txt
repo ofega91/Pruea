@@ -7,3 +7,5 @@ nbformat
 matplotlib
 seaborn
 scipy
+plotly-express
+nbformat
